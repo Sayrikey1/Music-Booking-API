@@ -1,0 +1,6 @@
+.env
+trash.py
+trash.txt
+node_modules
+logs
+coverage
