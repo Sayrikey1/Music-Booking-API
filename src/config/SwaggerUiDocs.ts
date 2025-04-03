@@ -40,7 +40,7 @@ const options = {
   definition: {
     openapi: "3.0.3",
     info: {
-      title: "Event Booking API",
+      title: "Music Booking API",
       version: "1.0.0",
       description: "This is the api for an event booking application",
       contact: {
