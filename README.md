@@ -203,8 +203,8 @@ Developed with ❤️ by [sayrikey1](https://github.com/sayrikey1).
 [backend swagger docs](https://music-booking-app-ui1a.onrender.com/api/docs)
 
 ## Documentation Screenshots 📸
-
-Below are some screenshots of the frontend, arranged in a 2×2 grid:
+(JUST IN CASE RENDER IS NOT RESPONDING)
+Below are some screenshots of the docs, arranged in a 2×2 grid:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <img src="./images/image01.png" alt="Frontend Screenshot 1" style="width:100%;" />
